@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diriba
 - 👀 I’m interested in full stuck web and web app development,
-- 🌱 I’m currently learning Artificial Intelligence, machine learning and deep learning
+- 🌱 I’m currently working as System Developer, Datacenter Engineer and Artificial Intelligence, machine learning and deep learning researcher.
 
 
 <!---
